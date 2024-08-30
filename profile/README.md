@@ -1,5 +1,5 @@
 # TCS | TgmStudio Cloud Server
-TgmStudioのクラウドサーバーです。　　
+TgmStudioのクラウドサーバーです。  
 これからは`.sb3`ファイルも公開します。
 
 # 管理者
